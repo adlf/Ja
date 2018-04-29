@@ -1,0 +1,63 @@
+class Big {
+    public static void main(String[] args) {
+    	int a = 3;
+    	int c = 34256;
+    	double b = 5.4;
+    	double d = 5.4e6;
+    	double e = 5.6e+3;
+    	double f = 4e-5;
+    	double g = 4e6;
+    	double h = 56.1e-23;
+    	double i = 23234234.23234234e+2234234234;
+    	double j = 5.;
+    	double k = .4;
+    	double l = 3.e2;
+    	double m = -3.2e9_0_111111_9999;
+    	double n = 5.0e9_0;
+    	double o = 5.;
+    	double p = .99999;
+    	double q = .3e9;
+    	double r = 3.4;
+    	double s = 6.9999999e+9;
+    	double t = 6.9_9e-9;
+    	double u = 1.234e2;
+    	int v = 9999_9999_999;
+    	boolean true_ = true;
+    	boolean false_ = false;
+    	int x = 5_2;
+    	int y = 1;
+    	int z = 10;
+    	int a_1 = 123;
+    	int a_2 = 140000404;
+    	int a_3 = 1_222_33_1;
+    	int a_4 = 1__________0;
+    	int a_5 = 1_______0_0_0;
+    	int a_6 = 5_2;
+    	3_.1415
+    	++
+    	--
+    	3_0_0_1_1_1_999_
+        String invalidescapes = "\k\l\m\c";
+        String _a = "This is a string";
+        String _b = "The next string will be empty";
+        String _c = "";
+        String _d = "This is a string with a \b(\\b) in it";
+        String _e = "This is a string with a \t(\\t) in it";
+        String _f = "This is a string with a \n(\\n) in it";
+        String _g = "This is a string with a \v(\\v) in it";
+        String _h = "This is a string with a \f(\\f) in it";
+        String _i = "This is a string with a \r(\\r) in it";
+        String _j = "This is a string with a \"(\\\") in it";
+        String _k = "This is a string with a \z(\\z) in it";
+        String _l = "This is a string with a \X4a(\\X4a) in it";
+        String _m = "This is a string with a \x4a(\\x4a) in it";
+        String _n = "This is a string with a \x7(\\x7) in it";
+        String _o = "This is a string with a \112(\\112) in it";
+        String _p = "This is a string with a \043(\\043) in it";
+        String _q = "This is a string with a \7(\\7) in it";
+        String _r = "This is a multi-line \
+        string";
+        String _z = "This is an unterminated string
+        String _ss = "This is an unterminated string too
+	}
+}

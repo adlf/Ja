@@ -1,0 +1,6 @@
+class Echo {
+    public static void main(String[] args) {
+        x = Integer.parseInt(args[0]);
+        System.out.println(x);
+    }
+}
