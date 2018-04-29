@@ -1,0 +1,275 @@
+class E {
+
+    public static int a, b, c;
+    public static double d, e, f;
+    public static boolean g, h, i;
+    public static double middle;
+    public static int gcd;
+    public static int bottom;
+
+    public static void function0(String []args) {}
+
+    public static int funtion1() {}
+    public static int funtion2(int arg1) {}
+    public static int funtion3(int arg1, int arg2, int arg3) {}
+
+
+    public static double funtion4() {}
+    public static double funtion5(double arg1) {}
+    public static double funtion6(double arg1, double arg2, double arg3) {}
+
+
+    public static boolean funtion7() {}
+    public static boolean funtion8(boolean arg1) {}
+    public static boolean funtion9(boolean arg1, boolean arg2, boolean arg3) {}
+
+    public static int funtion10(int arg1, double arg2, boolean arg3) {}
+    public static double funtion11(double arg1, boolean arg2, int arg3) {}
+    public static boolean funtion12(double arg1, int arg2, boolean arg3) {}
+
+    public static void funtion13(String[] args) {}
+    public static void funtion14(double arg1) {}
+    public static void funtion15(int arg1, double arg2, boolean arg3) {}
+    public static int function16(int arg1, double arg2, boolean arg3, int arg4, boolean arg5) {}
+
+    public static int funtion17(String [] args) {}
+
+    public static int funtion18(int arg1, boolean arg2, double arg3) {};
+    public static int funtion19(int arg1, boolean arg2, double arg3) {};
+    public static int funtion20(int arg1, boolean arg2, double arg3) {};
+    public static int funtion21(String [] arg1) {{{{{{{{{{{}}}}}}}}}}};
+
+    public static int funtion22() {}
+    public static boolean funtion23() {}
+    public static double funtion24() {}
+    public static void funtion25() {}
+
+    public static void main(String[] args) {
+        a = Integer.parseInt(args[0]);
+        b = Integer.parseInt(args[1]);
+        System.out.println(gcd);
+        System.out.println("Error: two parameters required.");
+        int fgh;
+        double g, df, ghh, wewer, fd4;
+    }
+
+    public static int function26(int a, int b) {
+        int fgh;
+        int hf;
+        if (a == 0) {
+            return b;
+        } else {
+            while (b > 0)
+                if (a > b) {
+                    a = a - b;
+                } else {
+                    b = b - a;
+                }
+            return a;
+        }
+        boolean last;
+    }
+
+    public static int function27(int a) {
+        {}
+        {{{{{{}}}}}}
+    }
+
+    public static boolean function28(int a, double b, boolean c) {
+        if (b > 5.0 && c == false) {
+            System.out.println("Inside if");
+        }
+
+        if (b > 239.0 && c == true) {
+            System.out.println("Inside if");
+        } else {
+            System.out.println("Inside else");
+        }
+        return true;
+    }
+
+    public static void function29(int a, int b, int c, int d) {
+        while (a > 10 && b < a && c + d == 20) {
+            a = a - 1;
+            b = b % 3;
+            c = c / d;
+            d = a + a;
+        }
+        int lel, lol, lil;
+        boolean a123;
+        double what, the, beep;
+        boolean a__sdf;
+
+        return;
+    }
+
+    public static void function30(int a, int b, int c, int d) {
+        do {
+            while (a > 10 && b < a && c + d == 20) {
+
+                a = a - 1;
+                b = b % 3;
+                c = c / d;
+                d = a + a;
+                a = b = c = d;
+                if (b > 5.0 && c == 9999999) {
+                    System.out.println("Inside if");
+                }
+
+                if (a < 1) {
+
+                } else {
+                    if (b > 1) {
+
+                    } else {
+
+                    }
+                }
+
+                if (b > 239.0 && false == false) {
+                    System.out.println("Inside if foo 8");
+                } else {
+                    System.out.println("Inside else foo 8");
+                }
+            }
+        } while (true == true || false == false && 32 > 94 || 66 < 2 && 56 != 22);
+
+
+        System.out.println("End of function");
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+    }
+
+    public static int function31() {
+
+        funtion22();
+
+        function30(2322, 22, 1, 1321);
+        function28(12, 23.2222, false);
+    }
+
+    public static void function32(String []args) {
+        int _a, _b, _c, _d, _e;
+        double vars;
+
+
+        _a = Integer.parseInt(args[0]);
+        _b = Integer.parseInt(args[1]);
+        _c = Integer.parseInt(args[args.length]);
+        _d = Integer.parseInt(args[2 + 2]);
+        _e = Integer.parseInt(args[1000 - 6]);
+
+        int a;
+        int b;
+        boolean c;
+        int d;
+        a = 1;
+        b = 2;
+        c = false;
+
+        a = +a;
+        b = -a;
+        c = !c;
+        d = args.length;
+        d = (a + b) * 1 - (b + b + b) / d;
+
+        System.out.println("");
+    }
+
+    public static void function33(String[] args) {
+        int a, b;
+        a = Integer.parseInt(args[0]);
+        b = Integer.parseInt(args[1]);
+
+        boolean c = true;
+
+        if (a == 0) {
+            System.out.println(b);
+        } else {
+            while (b > 0 && 3 > 1 && 4 > 3)
+                if (a > b) {
+                    a = a - b;
+                    a = a + b;
+                    a = a * b;
+                    a = a / b;
+                    a = a + b;
+                    if (true || false ) {
+                        b = 999;
+                    }
+                    if (false && false ) {
+                        b = 999;
+                    }
+                    if (a > b ) {
+                        b = 999;
+                    }
+                    if (a < b) {
+                        a = a - b;
+                    }
+                    if (a <= b) {
+                        a = 123;
+                    }
+                    if (a >= b) {
+                        b = 1;
+                    }
+                    b = args.length;
+                    b = a;
+                    b = (a + a) * 2;
+                    a = 10000;
+                    b = 3_3;
+                    c = false;
+                    function31();
+                } else {
+                    b = b - a;
+                }
+            System.out.println(a);
+        }
+
+        do {
+            System.out.println("Some string");
+        } while (2 > 1);
+
+        return;
+    }
+
+    public static int function34(int a) {
+        if (a == 0) {
+            return -1;
+        } else {
+            return function34(a - 1);
+        }
+    }
+
+    public static boolean function35(double a, boolean b, int c) {
+
+        if (b) {
+            if (c > 10) {
+                a = a + 2.3;
+            } else {
+                a = a - 6.6;
+            }
+        } else {
+            System.out.println("qwerty");
+        }
+        int _a, _b, _c, _d;
+        _a = 12;
+        _b = _c = _d = _a;
+        return false;
+    }
+
+    public static void function36(int a) {
+
+        function35(22.333, false, 20);
+        return;
+    }
+
+    public static int ____b, __c, __d, __e;
+    public static double ____qw;
+    public static int ____comp;
+    public static boolean ____aaaaaa;
+    public static int ____a, ___b_, ____c, ____d, ____e;
+    public static boolean ____a1, ____a2, ____a3, ____a4, ____a5;
+    public static double ____q1, ____q2, ____q3, ____q4, ____q5;
+}
+

@@ -1,0 +1,273 @@
+class gcd {
+
+    public static int a, b, c;
+    public static double d, e, f;
+    public static boolean g, h, i;
+    public static double middle;
+    public static int gcd;
+    public static int bottom;
+
+    public static void main(String []args) {}
+
+    public static int foo1() {}
+    public static int foo2(int _a) {}
+    public static int foo3(int _a, int _b, int _c) {}
+
+
+    public static double foo4() {}
+    public static double foo5(double _a) {}
+    public static double foo6(double _a, double _b, double _c) {}
+
+
+    //public static boolean foo7() {}
+    public static boolean foo8(boolean _a) {}
+    public static boolean foo9(boolean _a, boolean _b, boolean _c) {}
+
+    public static int foo10(int a__, double b__, boolean c__) {}
+    public static double foo11(double b__, boolean c__, int a__) {}
+    public static boolean foo12(double b__, int a__, boolean c__) {}
+
+    public static void foo13(String [] args) {}
+    public static void foo14(double __b__) {}
+    public static void foo15(int a__, double b__, boolean c__) {}
+    public static int bigfunctionname(int ___a_33333___, double ___fsda___2222_, boolean ___a____ff, int a_3333___, boolean ___a____3) {}
+
+    public static int just(String [] args) {}
+
+    public static void main(String[] args) {
+        a = Integer.parseInt(args[0]);
+        b = Integer.parseInt(args[1]);
+        System.out.println(gcd);
+        System.out.println("Error: two parameters required.");
+    }
+
+    public static int ________________gcd_________________(int a, int b) {
+        int fgh;
+        int hf;
+        if (a == 0) {
+            return b;
+        } else {
+            while (b > 0)
+                if (a > b) {
+                    a = a - b;
+                } else {
+                    b = b - a;
+                }
+            return a;
+        }
+        boolean last;
+    }
+
+    public static void main(String[] args) {
+        a = Integer.parseInt(args[0]);
+        b = Integer.parseInt(args[1]);
+        System.out.println(gcd);
+        System.out.println("Error: two parameters required.");
+
+        int fgh;
+        double g, df, ghh, wewer, fd4;
+    }
+
+
+
+    public static int a, b, c, d, e;
+    public static boolean a1, a2, a3, a4, a5;
+    public static double q1, q2, q3, q4, q5;
+    public static int foo1() {}
+    public static boolean foo2() {}
+    public static double foo3() {}
+    //public static void foo4() {}
+
+    public static int foo5(int a) {
+        {}
+        {{{{{{}}}}}}
+    }
+    public static boolean foo6(int a, double b, boolean c) {
+        if (b > 5.0 && c == false) {
+            System.out.println("Inside if");
+        }
+
+        if (b > 239.0 && c == true) {
+            System.out.println("Inside if");
+        } else {
+            System.out.println("Inside else");
+        }
+        return true;
+    }
+    public static void foo7(int a, int b, int c, int d) {
+        while (a > 10 && b < a && c + d == 20) {
+            a = a - 1;
+            b = b % 3;
+            c = c / d;
+            d = a + a;
+        }
+        int lel, lol, lil;
+        boolean a;
+        double what, the, beep;
+        boolean a__sdf;
+
+        return;
+    }
+    public static void foo8() {
+        do {
+            while (a > 10 && b < a && c + d == 20) {
+
+                a = a - 1;
+                b = b % 3;
+                c = c / d;
+                d = a + a;
+                a = b = c = d;
+                if (b > 5.0 && c) {
+                    System.out.println("Inside if");
+                }
+
+                if (a) {
+
+                } else {
+                    if (b) {
+
+                    } else {
+
+                    }
+                }
+
+
+                if (b > 239.0 && c) {
+                    System.out.println("Inside if foo 8");
+                } else {
+                    System.out.println("Inside else foo 8");
+                }
+            }
+        } while (true == true || false == false && 32 > 94 || 66 < 2 && 56 != 22);
+
+
+        System.out.println("End of function");
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+
+    }
+
+    public static int caller() {
+
+        foo4();
+        foo8();
+
+        foo7(2322, 22, 1, 1321);
+        foo6(12, 23.2222, false);
+    }
+
+    public static void bar___________________________________(String []args) {
+        int _a, _b, _c, _d, _e;
+        double vars;
+
+
+        _a = Integer.parseInt(args[0]);
+        _b = Integer.parseInt(args[1]);
+        _c = Integer.parseInt(args[args.length]);
+        _d = Integer.parseInt(args[2 + 2]);
+        _e = Integer.parseInt(args[1000 - 6]);
+
+        int a;
+        int b;
+        int c;
+        a = 1;
+        b = 2;
+        c = 3;
+
+        a = +a;
+        b = -a;
+        c = !c;
+        //int d;
+        d = a.length;
+        d = (a + b) * c - (b + b + b) / d;
+
+        System.out.println("");
+
+    }
+
+
+    public static int b, c, d, e;
+    public static double qw;
+    public static int comp;
+    public static boolean aaaaaa;
+
+    public static int f(int a, boolean val, double tt) {};
+    public static int v(int a, boolean val, double tt) {};
+    public static int g(int a, boolean val, double tt) {};
+    public static int gg(String [] temp) {{{{{{{{{{{}}}}}}}}}}};
+
+    public static void main(String[] args) {
+        a = Integer.parseInt(args[0]);
+        b = Integer.parseInt(args[1]);
+
+        if (a == 0) {
+            System.out.println(b);
+        } else {
+            while (b > 0 && 3 > 1 && 4 > 3)
+                if (a > b) {
+                    a = a - b;
+                    a = a + b;
+                    a = a * b;
+                    a = a / b;
+                    a = a + b;
+                    a = a || b;
+                    a = a && b;
+                    a = a > b;
+                    a = a < b;
+                    a = a <= b;
+                    a = a >= b;
+                    b = a.length;
+                    b = a;
+                    b = (a + a) * 2;
+                    a = 10000;
+                    b = 3_3;
+                    c = false;
+                    f();
+                } else {
+                    b = b - a;
+                }
+            System.out.println(a);
+        }
+
+        do {
+            System.out.println("Some string");
+        } while (2 > 1);
+
+        return;
+    }
+
+    public static int foo(int a) {
+        if (a == 0) {
+            return -1;
+        } else {
+            return foo(a - 1);
+        }
+        ;;;;;;;;;;;;;;
+        {{{{{{{{{{{;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;}}}}}}}}}}}
+    }
+
+    public static boolean testing(double a, double bfffffff, int c) {
+        //int a, b, c, d;
+        a = 12;
+        b = c = d = a;
+        if (b) {
+            if (c > 10) {
+                a = a + 2.3;
+            } else {
+                a = a - 6.6;
+            }
+        } else {
+            System.out.println("qwerty");
+        }
+        return false;
+    }
+    public static void bar(int a) {
+
+        testing(2.2, false, 3);
+        return;
+    }
+
+
+}
