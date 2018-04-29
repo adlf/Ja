@@ -1,0 +1,47 @@
+class gcd {
+    public static void main(String[] args) {
+        int a, b;
+        a = Integer.parseInt(args[0]);
+        b = Integer.parseInt(args[1]);
+        a();
+        a(1, 2, 3);
+        b = -a*-b;
+        if (a == 0) {
+            System.out.println(b);
+        } else {
+            while (b > 0)
+                if (a > b) {
+                    a = a - b;
+                } else {
+                    b = b - a;
+                }
+            teste_Func(a, b, b, c, c, c);
+            System.out.println("guadalquivir");
+            v = 94;
+            c = 123 + 1;
+            do {
+                i =  44 + 1 + 2;
+                gogogogogogogogog(v, a);
+            } while (a <= 0 && b >= c);
+            System.out.println(a);
+            return (0);
+            return;
+            return (1 + 1);
+
+            do {
+                if (a = b) {
+                    a = 1;
+                } else {
+                    a = 4 + 4;
+                    System.out.println("nope");
+                }
+            } while (a);
+        }
+            int a,b,c,d,f,e,r,t,g,h,j,u,y,t,b,v,c;
+        while (a = 0) {;}
+        ;
+        a = 4.4E2 + 3.2E433 + 1 + 2.3 + .3E234213213;
+        //= 1;
+        while (a = 0) {;}
+    }
+}

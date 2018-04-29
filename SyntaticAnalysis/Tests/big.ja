@@ -1,0 +1,35 @@
+class big {
+    public static int AAi,BBi,CCi,DDi;
+    public static double AAd,BBd,CCd,DDd;
+    public static boolean AAb,BBb,CCb,DDb;
+    public static void main(String[] args) {
+    {{{{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}
+        int a,b,c,d;
+        a = 1;
+        b = 2;
+        c = 3;
+        d = 4;
+        if (a) {
+            if (b) {
+                if (c) {
+                    if (d) {
+                        System.out.println(a);
+                    }
+                    System.out.println(b);
+                }
+                System.out.println(c);
+            }
+            System.out.println(d);
+        }
+        if (a == 0)
+            System.out.println(b);
+        else {
+            while (b > 0)
+                if (a > b)
+                    a = a-b;
+                else
+                    b = b-a;
+            System.out.println(a);
+        }
+    }    
+}
